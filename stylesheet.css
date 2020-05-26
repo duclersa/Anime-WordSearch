@@ -1,0 +1,63 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQPBJjCzb_oclvtjNNbnK9gv7J-gTLHrtY-zY9bRgmas1AYtMzm&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+  }
+ 
+  h1 {
+    color: brown;
+    margin-left: 56%;
+    font-size: xx-large;
+    
+  }
+  h3{
+    margin-left: 60%;
+    margin-top: -55%;
+   
+  }
+ 
+  p {
+   
+    color: white;
+  }
+  
+  div input {
+  
+   margin-left: 57%;
+
+  }
+  div h3 {
+    margin-left: 60%;
+    margin-top:-50%;
+    color: brown;
+  }
+  
+  table {
+    margin-top: -4%;
+    background-color: brown;
+    border-top-style: groove;
+    border-left-style: groove;
+    border-bottom-style: groove;
+    border-right-style: groove;
+    
+
+  }
+ 
+  td {
+    color: white;
+    border-style: solid;
+    border-color: black;
+
+
+  }
+  button {
+    border-style: groove;
+    border-radius: 10%;
+    background-color: black;
+    color: white;
+  }
+  audio {
+    background-color: black;
+    color: black;
+  }
